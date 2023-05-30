@@ -51,6 +51,7 @@ class BST {
       }
     }
   }
+ 
  public:
   BST(): root(nullptr) {}
   void add(T value) {
